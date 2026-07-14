@@ -4,7 +4,7 @@
 
 ✨ Passionate about Software Development, Java, and DSA.
 
-🌱 Learning **Spring Boot**, **React.js**, and **System Design**
+🌱 Learning **React.js**, and **System Design**
 
 🔭 Building **Java** & **Full-Stack** projects
 
