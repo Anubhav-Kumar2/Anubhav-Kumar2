@@ -1,5 +1,18 @@
 # 💫 About Me:
-# Hey there! 👋 I'm Anubhav Kumar<br><br>### 💻 B.Tech CSE Student | 🚀 Aspiring Software Engineer<br><br>🎯 Passionate about building innovative software solutions and continuously expanding my expertise in **Java**, **Data Structures & Algorithms**, and **Full-Stack Development**.<br><br>📚 Committed to continuous learning, writing high-quality code, and solving challenging real-world problems through technology.<br><br>🤝 Open to collaboration, open-source contributions, and opportunities that foster growth as a Software Engineer.<br><br>🌟 Always curious. Always learning. Always building.
+## 👋 Hi, I'm Anubhav Kumar
+### 💻 B.Tech CSE Student | 🚀 Aspiring Software Engineer
+
+✨ Passionate about Software Development, Java, and DSA.
+
+🌱 Learning **Spring Boot**, **React.js**, and **System Design**
+
+🔭 Building **Java** & **Full-Stack** projects
+
+🤝 Open to **Collaboration** and **Open Source**
+
+💬 Ask me about **Java**, **DSA**, and **Web Development**
+
+⚡ *"Always Learning, Always Building."* 🚀
 
 
 ## 🌐 Socials:
